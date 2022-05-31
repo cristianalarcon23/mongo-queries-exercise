@@ -1,4 +1,4 @@
-    {
+[    {
       "name": "John Doe",
       "age": 13,
       "country": "USA",
@@ -8,7 +8,7 @@
       "children": null,
       "wealthPerYear": "23K",
       "email": "john@doe.com"
-    }
+    },
     {
       "name": "Mary Doe",
       "age": 23,
@@ -19,7 +19,7 @@
       "children": 2,
       "wealthPerYear": "26K",
       "email": "mary@doe.com"
-    }
+    },
     {
       "name": "Marissa Geller",
       "age": 45,
@@ -30,7 +30,7 @@
       "children": 4,
       "wealthPerYear": "43K",
       "email": "marissa@doe.com"
-    }
+    },
     {
       "name": "Ted Mosby",
       "age": 32,
@@ -41,7 +41,7 @@
       "children": 2,
       "wealthPerYear": "66K",
       "email": "ted@gmail.com"
-    }
+    },
     {
       "name": "Aria Stark",
       "age": 12,
@@ -52,7 +52,7 @@
       "children": null,
       "wealthPerYear": "12K",
       "email": "aria@stark.com"
-    }
+    },
     {
       "name": "Eleven Meyers",
       "age": 18,
@@ -63,7 +63,7 @@
       "children": null,
       "wealthPerYear": "0K",
       "email": "el@hawkins.com"
-    }
+    },
     {
       "name": "Hermione Granger",
       "age": 13,
@@ -74,7 +74,7 @@
       "children": 2,
       "wealthPerYear": "78K",
       "email": "hermione@hogwarts.com"
-    }
+    },
     {
       "name": "Chandler Bing",
       "age": 50,
@@ -86,7 +86,7 @@
       "wealthPerYear": "88K",
       "email": "chandler@bing.com",
       "phone": "010643322"
-    }
+    },
     {
       "name": "Lily Aldrin",
       "age": 35,
@@ -97,7 +97,7 @@
       "children": 3,
       "wealthPerYear": "100K",
       "email": "lily@captain.com"
-    }
+    },
     {
       "name": "Marshall Erikssen",
       "age": 36,
@@ -108,7 +108,7 @@
       "children": 3,
       "wealthPerYear": "110K",
       "email": "lily@captain.com"
-    }
+    },
     {
       "name": "Barney Stinson",
       "age": 42,
@@ -119,7 +119,7 @@
       "children": 1,
       "wealthPerYear": "150K",
       "email": "barney@stinson.com"
-    }
+    },
     {
       "name": "Ross Geller",
       "age": 46,
@@ -131,4 +131,4 @@
       "wealthPerYear": "90K",
       "email": "ross@geller.com",
       "phone": "01065423"
-    }
+    }]
